@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "amplifyreactappdf3b3500": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
